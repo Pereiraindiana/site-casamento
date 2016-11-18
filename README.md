@@ -4,7 +4,7 @@
 This is a simples html/css website for my wedding. 
 I get this template from [W3c Templates](http://www.w3schools.com/w3css/w3css_templates.asp).
 
-To do so, we provide a [generator ecosystem](http://yeoman.io/generators/). A generator is basically a plugin that can be run with the `yo` command to scaffold complete projects or useful parts.
+Access my wedding site [here](http://anaefabio.bitballoon.com). 
 
 ### Usage
 
@@ -18,4 +18,4 @@ npm install
 gulp build
 #generate dist folder
 ```
- Thank you :-)
+Install and use it. 
