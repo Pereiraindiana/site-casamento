@@ -1,0 +1,17 @@
+{
+  "name": "wedding-site",
+  "version": "0.0.1",
+  "description": "wedding website ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fabio noth",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-html-minifier": "^0.1.8",
+    "gulp-image-optimization": "^0.1.3"
+  }
+}
