@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wedding Site
 
 ### What's Wedding Site?
@@ -19,3 +20,6 @@ gulp build
 #generate dist folder
 ```
 Install and use it. 
+=======
+# site-casamento
+>>>>>>> 383bd80eb9d7c0bd65b84f2f3ae75e9eafc4d011
